@@ -6,7 +6,7 @@
             }
             #thirDiv {
                 background-color: aqua;
-                height: 500px;
+                height: 700px;
                 width: 600px;
                 padding: 50px;
                 border: 60px solid skyblue;
@@ -14,4 +14,7 @@
             #spanId {
                 font-size: 18px;
                 margin: 50px;
+            }
+            #coca {
+                height: 450px;
             }
